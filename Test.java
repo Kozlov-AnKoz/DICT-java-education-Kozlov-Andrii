@@ -6,6 +6,7 @@ public class Test {
 }
 =======
         System.out.println("education");
+        // new string
     }
 }
 >>>>>>> 37b7128 (Add Test.java file)
