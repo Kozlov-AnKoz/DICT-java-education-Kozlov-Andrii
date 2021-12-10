@@ -1,4 +1,4 @@
-# DICT-java-education-Kozlov-Andrii
+# oop-java
 Java OOP lessons
 KOZLOV ANDRII 
 528
